@@ -1,0 +1,7 @@
+2023-11-14 22:15:29,654 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on MacBook-Pro with PID 27046 (started by wangyifan in /Users/wangyifan/JavaProjects/JavaPractice/第一章素材和源码/源码/community 7)
+2023-11-14 22:15:29,655 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-11-14 22:15:30,363 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-11-14 22:15:30,434 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-11-14 22:15:30,509 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 1.058 seconds (JVM running for 1.357)
+2023-11-14 22:15:30,662 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log
+2023-11-14 22:15:30,666 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
