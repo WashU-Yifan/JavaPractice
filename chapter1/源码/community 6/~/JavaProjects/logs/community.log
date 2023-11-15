@@ -1,0 +1,16 @@
+2023-11-14 20:55:32.642  INFO 26162 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-11-14 20:55:32.728  INFO 26162 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-14 20:55:32.961  WARN 26162 --- [main] com.nowcoder.community.LoggerTest        : testWarn
+2023-11-14 20:55:32.961 ERROR 26162 --- [main] com.nowcoder.community.LoggerTest        : testError
+2023-11-14 20:55:32.963  INFO 26162 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2023-11-14 20:55:33.219  INFO 25869 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-11-14 20:55:33.220  INFO 25869 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-11-14 20:55:33.220  INFO 25869 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2023-11-14 20:55:33.225  INFO 25869 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2023-11-14 20:55:33.226  INFO 25869 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 108 ms
+2023-11-14 20:55:33.275  INFO 25869 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-11-14 20:55:33.288  INFO 25869 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-14 20:55:33.298  INFO 25869 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-11-14 20:55:33.305  INFO 25869 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2023-11-14 20:55:33.305  INFO 25869 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-11-14 20:56:57.750  INFO 25869 --- [Thread-21] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
